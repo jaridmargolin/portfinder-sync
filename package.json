@@ -2,7 +2,7 @@
   "name": "portfinder-sync",
   "description": "Find an open port synchronously.",
   "author": "Jarid Margolin <jaridmargolin@gmail.com>",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/jaridmargolin/portfinder-sync",
   "license": "MIT",
   "repository": {
